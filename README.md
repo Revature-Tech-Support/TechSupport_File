@@ -7,7 +7,7 @@ Repository for systems involving the file transfer protocol and file handling of
 
 
 ## Goal:
-Uploading, storing, and sending files on a user by user and chat by chat basis with all kinds of media formats (pdf, video, markdown, etc.).
+Uploading, storing, and sending files on a user-by-user and chat-by-chat basis with all kinds of media formats (pdf, video, markdown, etc.).
 
 
 ## User Stories:
@@ -32,5 +32,5 @@ Uploading, storing, and sending files on a user by user and chat by chat basis w
 - Maven
 - Reactor Netty
 - Cassandra
-- Spring Webflux
+- Spring WebFlux
 - Amazon Web Services
