@@ -24,8 +24,6 @@ Uploading, storing, and sending files on a user-by-user and chat-by-chat basis w
 
 ## Technology:
 - Java
-   - Google Standards
-   - Lombok
 - Spring Boot
 - JUnit 5
 - Logback classic (SLF4J)
@@ -33,4 +31,3 @@ Uploading, storing, and sending files on a user-by-user and chat-by-chat basis w
 - Reactor Netty
 - Cassandra
 - Spring WebFlux
-- Amazon Web Services
